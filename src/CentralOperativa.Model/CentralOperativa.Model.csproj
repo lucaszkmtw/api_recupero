@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CentralOperativa.Model</AssemblyName>
+    <RootNamespace>CentralOperativa</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ServiceStack.Interfaces">
+      <HintPath>..\..\lib\Servicestack\netstandard2.0\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

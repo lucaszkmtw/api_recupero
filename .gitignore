@@ -1,0 +1,27 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.obj
+*.pdb
+*.suo
+*.ReSharper.user
+
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+PublishProfiles
+.sass-cache
+node_modules
+src/packages
+/src/.vs
+
+# ignore appsettings configuration files
+**/appsettings.development.json
+**/appsettings.staging.json
+**/appsettings.production.json
