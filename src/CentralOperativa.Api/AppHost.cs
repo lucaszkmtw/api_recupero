@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Security.Cryptography;
 using Funq;
 using Microsoft.Extensions.Configuration;
@@ -13,13 +12,9 @@ using ServiceStack.OrmLite;
 using ServiceStack.OrmLite.SqlServer;
 using ServiceStack.Redis;
 using ServiceStack.Text;
-using ServiceStack.Validation;
 using ServiceStack.Web;
-
+using CentralOperativa.ServiceInterface.System;
 using CentralOperativa.Infraestructure;
-using ServiceStack.Azure.Storage;
-using ServiceStack.IO;
-using ServiceStack.VirtualPath;
 
 namespace CentralOperativa
 {
@@ -122,10 +117,10 @@ namespace CentralOperativa
             // Plugins.Add(new ValidationFeature());
             ConfigureAuth(container);
 
-            container.RegisterAutoWired<ServiceInterface.System.TenantRepository>();
+            container.RegisterAutoWired<TenantRepository>();
 
             container.RegisterAutoWired<ServiceInterface.System.Persons.PersonRepository>();
-            container.RegisterAutoWired<ServiceInterface.System.UserRepository>();
+            container.RegisterAutoWired<UserRepository>();
 
             container.RegisterAutoWired<ServiceInterface.System.Messages.MessageRepository>();
 

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Qs8RZW1qaVNhhYGot1G82DVQKmCgRTcE6I4mrMCZqx+QjOoZ+ckA6JhcFNlWO18GDYI+l8RdRSOryr40wsj5/Q==",
+  "dgSpecHash": "4ieYu69ArLkKlLSTKM1/6XYdiVQ3eSYBH1MwO8X74otLNjDwG+Cj+xK/ghnJmTQ4yz9NBVrh+ikwWG3AaqTMjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Sistema Gestion Recupero fuentes\\GestionRecuperoApi\\src\\CentralOperativa.Model\\CentralOperativa.Model.csproj",
+  "projectFilePath": "C:\\Users\\lnoirat\\Desktop\\SISTEMO DE RECUPERO\\GestionRecuperoApi\\src\\CentralOperativa.Model\\CentralOperativa.Model.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\lnoirat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lnoirat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

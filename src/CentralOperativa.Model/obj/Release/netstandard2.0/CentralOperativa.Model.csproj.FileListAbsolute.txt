@@ -9,3 +9,15 @@ C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoA
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.csproj.CopyComplete
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.dll
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\bin\Release\netstandard2.0\CentralOperativa.Model.deps.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\bin\Release\netstandard2.0\CentralOperativa.Model.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\bin\Release\netstandard2.0\CentralOperativa.Model.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\bin\Release\netstandard2.0\ServiceStack.Interfaces.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.csproj.AssemblyReference.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.AssemblyInfoInputs.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.AssemblyInfo.cs
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.csproj.CoreCompileInputs.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.csproj.CopyComplete
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\gestionrecuperoapi\src\CentralOperativa.Model\obj\Release\netstandard2.0\CentralOperativa.Model.pdb

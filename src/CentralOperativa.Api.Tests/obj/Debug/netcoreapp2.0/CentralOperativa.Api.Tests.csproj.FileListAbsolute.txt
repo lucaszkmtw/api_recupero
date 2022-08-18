@@ -36,3 +36,42 @@ C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoA
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.dll
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.pdb
 C:\Users\Administrator\Desktop\Sistema Gestion Recupero fuentes\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.genruntimeconfig.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.deps.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.runtimeconfig.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.runtimeconfig.dev.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\appsettings.development.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.deps.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.runtimeconfig.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.runtimeconfig.dev.json
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Model.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Api.OpenApi.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Azure.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Client.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Common.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Interfaces.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.OrmLite.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.OrmLite.SqlServer.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Redis.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Server.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ServiceStack.Text.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\SparkPost.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\ExcelFinancialFunctions.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Api.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\bin\Debug\netcoreapp2.0\CentralOperativa.Model.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.csproj.AssemblyReference.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.AssemblyInfoInputs.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.AssemblyInfo.cs
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.csproj.CopyComplete
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.dll
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.pdb
+C:\Users\lnoirat\Desktop\SISTEMO DE RECUPERO\GestionRecuperoApi\src\CentralOperativa.Api.Tests\obj\Debug\netcoreapp2.0\CentralOperativa.Api.Tests.genruntimeconfig.cache
