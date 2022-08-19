@@ -3415,14 +3415,16 @@ namespace CentralOperativa.ServiceInterface.BusinessDocuments
 
         private async Task<Api.PostBusinessDocumentCollection> GetBusinessDocumentCollectExecute(Api.GetBusinessDocumentCollectExecute request)
         {
+            //SELECT * FROM BusinessDocumentTypes
             var documentTypes = Db.Select(Db.From<BusinessDocumentType>()).ToList();
+            // SELECT * FROM BusinessDocument Where id = request.id
             var document = (await Db.SingleByIdAsync<BusinessDocument>(request.Id)).ConvertTo<Api.PostBusinessDocumentCollection>();
-
+           
             var businessDocumentParent = Db.Select(Db.From<BusinessDocument>().Join<BusinessDocumentLink>((bd, bdl) => bd.Id == bdl.DocumentId && bdl.TypeId == 3 && bdl.LinkedDocumentId == request.Id)).OrderByDescending(x => x.Id).FirstOrDefault(); //traigo expediente
 
             var documentTypeName = documentTypes.Where(bdt => bdt.Id == document.TypeId).FirstOrDefault().ShortName;
             document.TypeName = documentTypeName != null ? documentTypeName : "";
-
+                            
             try
             {
                 Conversions converter = new Conversions();
